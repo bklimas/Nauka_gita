@@ -1,1 +1,4 @@
 # Nauka gita
+
+
+geneza czlowieka
