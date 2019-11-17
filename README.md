@@ -4,3 +4,5 @@
 geneza czlowieka
 
 geneza czlowieczenstwa
+
+dlaczego
