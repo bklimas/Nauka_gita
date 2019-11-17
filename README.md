@@ -2,3 +2,5 @@
 
 
 geneza czlowieka
+
+geneza czlowieczenstwa
